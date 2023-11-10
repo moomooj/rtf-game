@@ -8,17 +8,17 @@ three <br>
 
 react-three/drei
 
-## 3D Debug
+### 3D Debug
 
 leva
 3f-perf
 
-## 3D Postprocessing
+### 3D Postprocessing
 
 react-three/postprocessing <br>
 postprocessing
 
-## 3D physics
+### 3D physics
 
 react-three/rapier
 
